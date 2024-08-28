@@ -36,4 +36,4 @@ You should replace `your_username` and `project_name` respectively.
 
 This project is from a tutorial series provided by Hacking With Swift. The tutorial series is called 100 Days of Swift. --------- introduces a challenge for learning purposes and it is where I incorporate my additions to this project.
 
-- Project 3: https://www.hackingwithswift.com/100/19
+- Project 3: https://www.hackingwithswift.com/100/22
